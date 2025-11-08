@@ -1,0 +1,14 @@
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\lab_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\lab_10.AssemblyInfoInputs.cache
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\lab_10.AssemblyInfo.cs
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\lab_10.csproj.CoreCompileInputs.cache
+C:\Users\saite\source\repos\lab_10\lab_10\bin\Debug\net8.0\lab_10.exe
+C:\Users\saite\source\repos\lab_10\lab_10\bin\Debug\net8.0\lab_10.deps.json
+C:\Users\saite\source\repos\lab_10\lab_10\bin\Debug\net8.0\lab_10.runtimeconfig.json
+C:\Users\saite\source\repos\lab_10\lab_10\bin\Debug\net8.0\lab_10.dll
+C:\Users\saite\source\repos\lab_10\lab_10\bin\Debug\net8.0\lab_10.pdb
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\lab_10.dll
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\refint\lab_10.dll
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\lab_10.pdb
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\lab_10.genruntimeconfig.cache
+C:\Users\saite\source\repos\lab_10\lab_10\obj\Debug\net8.0\ref\lab_10.dll

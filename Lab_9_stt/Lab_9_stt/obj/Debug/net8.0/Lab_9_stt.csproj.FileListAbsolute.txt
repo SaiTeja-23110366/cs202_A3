@@ -1,0 +1,14 @@
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\Lab_9_stt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\Lab_9_stt.AssemblyInfoInputs.cache
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\Lab_9_stt.AssemblyInfo.cs
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\Lab_9_stt.csproj.CoreCompileInputs.cache
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\bin\Debug\net8.0\Lab_9_stt.exe
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\bin\Debug\net8.0\Lab_9_stt.deps.json
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\bin\Debug\net8.0\Lab_9_stt.runtimeconfig.json
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\bin\Debug\net8.0\Lab_9_stt.dll
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\bin\Debug\net8.0\Lab_9_stt.pdb
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\Lab_9_stt.dll
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\refint\Lab_9_stt.dll
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\Lab_9_stt.pdb
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\Lab_9_stt.genruntimeconfig.cache
+C:\Users\saite\source\repos\Lab_9_stt\Lab_9_stt\obj\Debug\net8.0\ref\Lab_9_stt.dll

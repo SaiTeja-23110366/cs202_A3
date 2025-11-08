@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_9_stt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\ArrayDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_9_stt\\ArrayDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\LoopAndFunctionDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_9_stt\\LoopAndFunctionDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_9_stt\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayDemo.cs",
+              "DocumentMoniker": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\ArrayDemo.cs",
+              "RelativeDocumentMoniker": "Lab_9_stt\\ArrayDemo.cs",
+              "ToolTip": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\ArrayDemo.cs",
+              "RelativeToolTip": "Lab_9_stt\\ArrayDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:43:02.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoopAndFunctionDemo.cs",
+              "DocumentMoniker": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\LoopAndFunctionDemo.cs",
+              "RelativeDocumentMoniker": "Lab_9_stt\\LoopAndFunctionDemo.cs",
+              "ToolTip": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\LoopAndFunctionDemo.cs",
+              "RelativeToolTip": "Lab_9_stt\\LoopAndFunctionDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:27:39.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\Calculator.cs",
+              "RelativeDocumentMoniker": "Lab_9_stt\\Calculator.cs",
+              "ToolTip": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\Calculator.cs",
+              "RelativeToolTip": "Lab_9_stt\\Calculator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:18:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_9_stt\\Program.cs",
+              "ToolTip": "C:\\Users\\saite\\source\\repos\\Lab_9_stt\\Lab_9_stt\\Program.cs",
+              "RelativeToolTip": "Lab_9_stt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:10:52.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
